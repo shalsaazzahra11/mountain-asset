@@ -1,0 +1,83 @@
+[
+    {
+        "category": "Jawa Barat",
+        "background": "#a9fffd",
+        "wordList": [
+                {"defaultWord":"Ciremai","mountainWord":"Gunung berapi kerucut yang secara administratif termasuk dalam wilayah dua kabupaten,yakni kuningan dan kabupaten majalengka dengan ketinggian 3078 mpdl. Gunung ini merupakan gunung tertinggi di Jawa Barat.","image":"ciremai.jpg"},
+                {"defaultWord":"Papandayan","mountainWord":"Gunung api strato yang terletak di Kabupaten Garut, Jawa Barat tepatnya di Kecamatan Cisurupan. Gunung dengan ketinggian 2665 meter di atas permukaan laut itu terletak sekitar 70 km sebelah tenggara Kota Bandung.","image":"papandayan.jpg"},
+                {"defaultWord":"Gede","mountainWord":"Gunung api bertipe stratovolcano yang berada di Pulau Jawa, Indonesia. Gunung ini berada di dua wilayah kabupaten yaitu Kabupaten Cianjur dan Sukabumi, dengan ketinggian 1.000 - 2.958 mdpl.","image":"gede.jpg"},
+                {"defaultWord":"Cikuray","mountainWord":"Gunung bertipe Stratovolcano yang terletak di Dayeuhmanggung, Kabupaten Garut,Jawa Barat, Indonesia. Gunung Cikuray yang mempunyai ketinggian 2.821 meter di atas permukaan laut ini tidak mempunyai kawah aktif dan merupakan gunung tertinggi keempat di Jawa Barat setelah Gunung Ciremai, Gunung Pangrango dan Gunung Gede.","image":"cikuray.jpeg"},
+                {"defaultWord":"Tangkuban Perahu","mountainWord":"Gunung yang terletak di Provinsi Jawa Barat, Indonesia.Sekitar 20 km ke arah utara Kota Bandung. Gunung Tangkuban Parahu mempunyai ketinggian setinggi 2.084 meter. Bentuk gunung ini adalah Stratovulcano dengan pusat erupsi yang berpindah dari timur ke barat.","image":"tperahu.jpg"}
+        ]
+    },
+    {
+        "category": "Jawa Tengah",
+        "background": "#81f5ff",
+        "wordList": [
+                {"defaultWord":"Merbabu","mountainWord":"Gunung Merbabu adalah gunung api yang bertipe Strato yang berada di wilayah Kabupaten Magelang di lereng sebelah barat dan Kabupaten Boyolali di lereng sebelah timur dan selatan,Kabupaten Semarang di lereng sebelah utara, Provinsi Jawa Tengah. Puncak gunung Merbabu berada pada ketinggian 3.145 meter di atas permukaan air laut.","image":"merbabu.jpeg"},
+                {"defaultWord":"Sumbing","mountainWord":"Gunung api yang terdapat di Jawa Tengah, Indonesia. (Ketinggian puncak 3.371 mdpl), gunung Sumbing merupakan gunung tertinggi ketiga di Pulau Jawa setelah Gunung Semeru dan Gunung Slamet. Gunung ini secara administratif terletak di tiga wilayah kabupaten, yaitu Kabupaten Magelang, Kabupaten Temanggung, dan Kabupaten Wonosobo.","image":"sumbing.jpg"},
+                {"defaultWord":"Slamet","mountainWord":"Gunung Slamet (3.428 meter dpl.) adalah sebuah gunung berapi kerucut yang terdapat di Pulau Jawa, Indonesia. Gunung Slamet terletak di antara 5 kabupaten, yaitu Kabupaten Brebes, Kabupaten Banyumas, Kabupaten Purbalingga, Kabupaten Tegal, dan Kabupaten Pemalang, Provinsi Jawa Tengah. Gunung Slamet merupakan gunung tertinggi di Jawa Tengah serta kedua tertinggi di Pulau Jawa setelah Gunung Semeru.","image":"slamet.jpg"},
+                {"defaultWord":"Merapi","mountainWord":"Gunung Merapi (ketinggian puncak 2.930 mdpl, per 2010)adalah gunung berapi di bagian tengah Pulau Jawa dan merupakan salah satu gunung api teraktif di Indonesia. Lereng sisi selatan berada dalam administrasi Kabupaten Sleman, Daerah Istimewa Yogyakarta, dan sisanya berada dalam wilayah Provinsi Jawa Tengah, yaitu Kabupaten Magelang di sisi barat, Kabupaten Boyolali di sisi utara dan timur, serta Kabupaten Klaten di sisi tenggara.","image":"merapi.jpg"},
+                {"defaultWord":"Lawu","mountainWord":"Gunung Lawu(3.265 MDPL) terletak di Pulau Jawa, Indonesia, tepatnya di perbatasan Provinsi Jawa Tengah dan Jawa Timur. Gunung Lawu terletak di antara tiga kabupaten yaitu Kabupaten Karanganyar, Jawa Tengah, Kabupaten Ngawi, dan Kabupaten Magetan, Jawa Timur. Status gunung ini adalah gunung api istirahat (diperkirakan terahkir meletus pada tanggal 28 November 1885 dan telah lama tidak aktif, terlihat dari rapatnya vegetasi serta puncaknya yang tererosi.","image":"lawu.jpg"}
+        ]
+    },
+    {
+        "category": "Jawa Timur",
+        "background": "#a9fffd",
+        "wordList": [
+                {"defaultWord":"Raung","mountainWord":"Gunung berapi kerucut yang terletak di ujung timur Pulau Jawa, Indonesia. Secara administratif, kawasan gunung ini termasuk dalam wilayah tiga kabupaten di wilayah Besuki, Jawa Timur, yaitu Banyuwangi, Bondowoso, dan Jember.Secara geografis, lokasi gunung ini berada dalam kawasan kompleks Pegunungan Ijen dan menjadi puncak tertinggi dari gugusan pegunungan tersebut. Dihitung dari titik tertinggi, Gunung Raung merupakan gunung tertinggi ketiga di Jawa Timur setelah Gunung Semeru dan Gunung Arjuno, serta menjadi yang tertinggi keempat di Pulau Jawa.","image":"raung.jpg"},
+                {"defaultWord":"Semeru","mountainWord":"Gunung berapi kerucut di Jawa Timur, Indonesia. Gunung Semeru merupakan gunung tertinggi di Pulau Jawa, dengan puncaknya Mahameru, 3.676 meter dari permukaan laut (mdpl). Gunung Semeru juga merupakan gunung berapi tertinggi ketiga di Indonesia setelah Gunung Kerinci di Sumatra dan Gunung Rinjani di Nusa Tenggara Barat. Kawah di puncak Gunung Semeru dikenal dengan nama Jonggring Saloko.","image":"semeru.jpg"},
+                {"defaultWord":"Arjuno","mountainWord":"Gunung berapi kerucut (istirahat) di Jawa Timur, Indonesia dengan ketinggian 3.339 mdpl. Gunung Arjuno secara administratif terletak di perbatasan Kota Batu, Kabupaten Malang, dan Kabupaten Pasuruan dan berada di bawah pengelolaan Taman Hutan Raya Raden Soerjo. Gunung Arjuno merupakan gunung tertinggi kedua di Jawa Timur setelah Gunung Semeru, serta menjadi yang tertinggi keempat di Pulau Jawa.","image":"arjuno.png"},
+                {"defaultWord":"Ijen","mountainWord":"Gunung berapi yang terletak di perbatasan antara Kabupaten Banyuwangi dan Kabupaten Bondowoso, Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.386 mdpl dan terletak berdampingan dengan Gunung Marapi. Gunung Ijen terakhir meletus pada tahun 1999. Salah satu fenomena alam yang paling terkenal dari Gunung Ijen adalah blue fire di dalam kawah yang terletak di puncaknya.","image":"ijen.jpeg"},
+                {"defaultWord":"Bromo","mountainWord":"Gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut dan berada dalam empat wilayah kabupaten, yakni Kabupaten Probolinggo, Kabupaten Pasuruan, Kabupaten Lumajang, dan Kabupaten Malang.Gunung Bromo terkenal sebagai objek wisata utama di Jawa Timur. Sebagai sebuah objek wisata, Bromo menjadi menarik karena statusnya sebagai gunung berapi yang masih aktif.","image":"bromo.jpeg"}
+        ]
+    },
+    {
+        "category": "Sumatera",
+        "background": "#81f5ff",
+        "wordList": [
+                {"defaultWord":"Kerinci","mountainWord":"Gunung tertinggi di Sumatra, gunung berapi tertinggi di Indonesia, dan puncak tertinggi di Indonesia di luar Papua. Gunung Kerinci terletak di Provinsi Jambi, di Pegunungan Bukit Barisan, dekat pantai barat, dan terletak sekitar 130 km sebelah selatan Padang Provinsi Sumatra Barat. Gunung ini dikelilingi hutan lebat Taman Nasional Kerinci Seblat dan merupakan habitat harimau sumatra dan badak sumatra.","image":"kerinci.jpg"},
+                {"defaultWord":"Dempo","mountainWord":"Gunung Dempo (3'173 mdpl) terletak di perbatasan provinsi Sumatra Selatan dan provinsi Bengkulu tepatnya di kota dingin penghasil kopi robusta[butuh rujukan] yaitu Kota Pagaralam. Gunung Dempo terletak di kota Pagaralam, dengan jarak tempuh darat sekitar 7 jam dari Palembang, ibu kota provinsi Sumatra Selatan.Sesuai dengan namanya, Kota Pagaralam dikelilingi oleh pegunungan Bukit Barisan dan yang tertinggi adalah Gunung Dempo.","image":"dempo.jpg"},
+                {"defaultWord":"Sinabung","mountainWord":"Gunung api di Dataran Tinggi Karo, Kabupaten Karo, Sumatra Utara, Indonesia. Sinabung bersama Gunung Sibayak di dekatnya adalah dua gunung berapi aktif di Sumatra Utara dan menjadi puncak tertinggi ke 2 di provinsi itu. Ketinggian gunung ini adalah 2.451 meter.Gunung ini tidak pernah tercatat meletus sejak tahun 1600,tetapi mendadak aktif kembali dengan meletus pada tahun2010. Letusan terakhir gunung ini terjadi sejak 19 Febuari 2018 dan berlangsung hingga kini.","image":"sibanung.jpg"}
+        ]
+    },
+    {
+        "category": "Sulawesi",
+        "background": "#a9fffd",
+        "wordList": [
+                {"defaultWord":"Latimojong","mountainWord":"Gunung di Kabupaten Enrekang, Sulawesi Selatan, Indonesia. Gunung Latimojong berada di tengah-tengah Sulawesi Selatan. Sebagian besar pengunungan ini terletak di daerah Kabupaten Enrekang.Gunung Latimojong merupakan gunung yang tertinggi di Sulawesi Selatan dengan ketinggian 3.478 meter, puncaknya yang bernama Bulu Rante Mario. Pegunungan Latimojong ini membentang dari selatan ke utara.","image":"latimojong.png"},
+                {"defaultWord":"Soputan ","mountainWord":"Gunung berapi yang terletak di provinsi Sulawesi Utara, Indonesia. Gunung ini terbentuk pada masa Kuarterner ditepi selatan kaldera Tondano, dan merupakan salah satu gunung api teraktif di Sulawesi. Tercatat telah terjadi letusan yang cukup seringdalam rentang waktu beberapa tahun sekali. Ketinggiannya yaitu 1784 mdpl.","image":"soputan.jpg"},
+                {"defaultWord":"Klabat","mountainWord":"Gunung tertinggi di Provinsi Sulawesi Utara. Puncak ketinggiannya mencapai sekitar 1.995 mdpl. Gunung ini oleh masyarakat Tonsea (Minahasa Utara) disebut juga Gunung Tamporok. Gunung ini merupakan objek wisata alam dan dapat ditelusuri mulai dari Airmadidi (Ibu Kota Kabupaten Minahasa Utara). Gunung ini merupakan gunung api yang tidak aktif lagi.","image":"klabat.jpg"}
+                
+        ]
+    },
+    {
+        "category": "Papua",
+        "background": "#81f5ff",
+        "wordList": [
+                {"defaultWord":"Carstensz Pyramid","mountainWord":"Puncak yang menjadi bagian dari Barisan Sudirman yang terdapat di Provinsi Papua,Indonesia. Puncak Jaya mempunyai ketinggian 4.884 m dan di sekitarnya terdapat gletser Carstensz, satu-satunya gletser tropika di Indonesia,yang kemungkinan besar segera akan lenyap akibat pemanasan global.Puncak ini merupakan gunung yang tertinggi di Indonesia kawasan Oceania. Puncak Jaya adalah salah satu dari tujuh puncak dunia.","image":"cartenz.jpeg"},
+                {"defaultWord":"Trikora","mountainWord":"Gunung yang terdapat di Papua Barat, Indonesia. Puncak Trikora mempunyai ketinggian setinggi 4,751 meter, menjadikannya gunung tertinggi ketiga di Indonesia setelah Puncak Jaya dan Puncak Mandala. Puncak Trikora mempunyaikawasan hutan Dipterokarp Bukit, hutan Dipterokarp Atas, hutan Montane, dan Hutan Ericaceous atau hutan gunung.","image":"trikora.jpeg"},
+                {"defaultWord":"Sumantri Brodjonegoro","mountainWord":"Puncak tajam sekitar 2 kilometer utara Piramid Carstensz di Papua, ia tersergam 4,870 meter (15,978 kaki.).Bahagian utara puncak dilitupi jurang luas yang membalut keliling bahagian timur dan barat gunung.","image":"sumantri.jpg"}
+              
+        ]
+    },
+    {
+        "category": "Nusa Tenggara Timur",
+        "background": "#a9fffd",
+        "wordList": [
+                {"defaultWord":"Lewotolo","mountainWord":"Gunung berapi stratovolcano yang terletak di bagian utara Pulau Lembata, Kabupaten Lembata, Provinsi Nusa Tenggara Timur, Indonesia. Di puncak gunung ini memiliki kawah besar menyerupai kaldera berbentuk bulan sabit yang disebut warga dengan nama Metong Lamataro.","image":"lewotolo.jpg"},
+                {"defaultWord":"Inierie","mountainWord":"Gunung stratovolcano yang terletak di bagian selatan Pulau Flores, tepatnya di Kecamatan Aimere, Kabupaten Ngada, Provinsi Nusa Tenggara Timur, Indonesia. Gunung Inierie adalah gunung berapi terbesar di Pulau Flores, puncak gunung ini merupakan titik tertinggi di Pulau Flores.","image":"inerie.jpg"}
+        ]
+    },
+    {
+        "category": "Nusa Tenggara Barat",
+        "background": "#81f5ff",
+        "wordList": [
+                {"defaultWord":"Rinjani","mountainWord":"Gunung yang berlokasi di Pulau Lombok, Nusa Tenggara Barat. Gunung yang merupakan gunung berapi kedua tertinggi di Indonesia dengan ketinggian 3.726 mdpl.","image":"rinjani.jpg"},
+                {"defaultWord":"Tambora","mountainWord":"Gunung api strato aktif yang terletak di Pulau Sumbawa, Nusa Tenggara Barat, Indonesia. Gunung ini terletak di dua kabupaten yaitu Kabupaten Dompu yang mencakup lereng bagian barat dan selatan serta Kabupaten Bima yang mencakup lereng bagian timur dan utara. Gunung Tambora terbentuk akibat zona subduksi aktif di bawahnya. Pada masa lampau, ketinggian Gunung Tambora mencapai sekitar 4.300 mdpl","image":"tambora.jpg"}
+            
+        ]
+    }
+    
+
+]
